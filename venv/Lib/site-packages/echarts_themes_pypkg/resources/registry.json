@@ -1,0 +1,36 @@
+{
+    "JUPYTER_URL": "/nbextensions/echarts-themes-js",
+    "GITHUB_URL": "https://echarts-themes-js.github.io/echarts-themes-js/echarts-themes-js",
+    "JUPYTER_ENTRY": "echarts-themes-js/index",
+    "JS_FOLDER": "echarts-themes-js",
+    "PINYIN_MAP": {
+        "shine": "shine",
+        "infographic": "infographic",
+        "roma": "roma",
+        "vintage": "vintage",
+        "macarons": "macarons",
+        "westeros": "westeros",
+        "wonderland": "wonderland",
+        "chalk": "chalk",
+        "halloween": "halloween",
+        "essos": "essos",
+        "walden": "walden",
+        "purple-passion": "purple-passion",
+        "romantic": "romantic"
+    },
+    "FILE_MAP": {
+        "shine": "shine",
+        "infographic": "infographic",
+        "roma": "roma",
+        "vintage": "vintage",
+        "macarons": "macarons",
+        "westeros": "westeros",
+        "wonderland": "wonderland",
+        "chalk": "chalk",
+        "halloween": "halloween",
+        "essos": "essos",
+        "walden": "walden",
+        "purple-passion": "purple-passion",
+        "romantic": "romantic"
+    }
+}

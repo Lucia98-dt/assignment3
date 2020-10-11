@@ -1,0 +1,83 @@
+Metadata-Version: 1.1
+Name: echarts-themes-pypkg
+Version: 0.0.3
+Summary: packages echarts vintage, macarons, infographic, shine, roma themes
+Home-page: https://github.com/pyecharts/echarts-themes-pypkg
+Author: C.W.
+Author-email: wangc_2011@hotmail.com
+License: git push -u origin masterMIT
+Download-URL: https://github.com/pyecharts/echarts-themes-pypkg/archive/0.0.3.tar.gz
+Description: ================================================================================
+        echarts-themes-pypkg
+        ================================================================================
+        
+        .. image:: https://api.travis-ci.org/pyecharts/echarts-themes-pypkg.svg?branch=master
+           :target: http://travis-ci.org/pyecharts/echarts-themes-pypkg
+        
+        .. image:: https://codecov.io/gh/pyecharts/echarts-themes-pypkg/branch/master/graph/badge.svg
+           :target: https://codecov.io/gh/pyecharts/echarts-themes-pypkg
+        
+        
+        The project packages `echarts-themes-js <https://github.com/pyecharts/echarts-themes-js>`_ and distributes it via pypi.
+        
+        Installation
+        ================================================================================
+        
+        
+        You can install echarts-themes-pypkg via pip:
+        
+        .. code-block:: bash
+        
+            $ pip install echarts-themes-pypkg
+        
+        
+        or clone it and install it:
+        
+        .. code-block:: bash
+        
+            $ git clone https://github.com/pyecharts/echarts-themes-pypkg.git
+            $ cd echarts-themes-pypkg
+            $ python setup.py install
+        
+        Change log
+        ================================================================================
+        
+        0.0.3 - 13/08/2018
+        --------------------------------------------------------------------------------
+        
+        Added
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        
+        #. upgrade to echarts-themes-js 1.0.2, adding addtional romatic theme
+        
+        0.0.2 - 12/08/2018
+        --------------------------------------------------------------------------------
+        
+        Added
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        
+        #. upgrade to echarts-themes-js 1.0.1, adding addtional 7 themes: westeros,
+           wonderland, chalk, halloween, essos, walden and purple-passion
+        
+        0.0.1 - 5.2018
+        --------------------------------------------------------------------------------
+        
+        Added
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        
+        #. initial release
+        
+        
+Keywords: python
+Platform: UNKNOWN
+Classifier: Topic :: Office/Business
+Classifier: Topic :: Utilities
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Programming Language :: Python
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
